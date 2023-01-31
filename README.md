@@ -1,2 +1,2 @@
 # IUP
-Intel Unnati Program
+Intel Unnati Program - Workshop on AI with Computer Vision
